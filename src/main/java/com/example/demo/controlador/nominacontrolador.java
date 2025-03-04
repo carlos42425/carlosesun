@@ -37,7 +37,7 @@ public class nominacontrolador {
 	        this.repositorioN.save(empleado);
 	        return this.repositorioN.findAll();
 	        //asdfghjkl
-	        
+	        //
 	    }
 }
 
