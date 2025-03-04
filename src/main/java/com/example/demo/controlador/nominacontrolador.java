@@ -36,6 +36,7 @@ public class nominacontrolador {
 	        nominas empleado = new nominas(1,1354646, 1399, 100, 12000,12355, "12/12/2024", emplea);
 	        this.repositorioN.save(empleado);
 	        return this.repositorioN.findAll();
+	        //asdfghjkl
 	        
 	    }
 }
