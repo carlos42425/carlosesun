@@ -38,6 +38,7 @@ public class nominacontrolador {
 	        return this.repositorioN.findAll();
 	        //asdfghjkl
 	        //alejo por charllotte
+	        // alejo mas yina la gallin
 	    }
 }
 
